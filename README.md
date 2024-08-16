@@ -22,4 +22,4 @@ Finally, render the points stored in the array on the frames and the canvas.
 
 Screenshot:
 
-<img src="/airCanvas.jpg" alt="image" width="200" height="200">
+<img src="/airCanvas.jpg" alt="image" width="700" height="500">
